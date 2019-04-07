@@ -7,5 +7,5 @@ Links:
 - [Eitan's Official Website and Blog](https://www.eitanblumin.com)
 - [LinkedIn Profile](https://www.linkedin.com/in/eitanblumin)
 - [Github Gists](https://gist.github.com/EitanBlumin)
-- [CRUDE-ASP: CRUD Generator in Classic ASP](https://eitanblumin.github.io/CRUDE-ASP/)
+- [CRUDE-ASP: CRUD Generator in Classic ASP](https://git.eitanblumin.com/CRUDE-ASP/)
 
